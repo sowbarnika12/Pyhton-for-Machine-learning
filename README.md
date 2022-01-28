@@ -1,1 +1,1 @@
-# Pyhton-for-Machine-learning
+# Python-for-Machine-learning
